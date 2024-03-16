@@ -2,6 +2,6 @@
   "name": "CAT OUT BAG",
   "symbol": "COB",
   "decimals": 9,
-  "image": "https://example.com/token-image.png",
+  "image": "https://raw.githubusercontent.com/ahsanzahid3/delta1/main/Test.jpg",
   "description": "This is a sample token.",
 }
